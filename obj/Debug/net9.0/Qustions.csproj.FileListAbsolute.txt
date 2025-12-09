@@ -12,3 +12,4 @@
 /Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.pdb
 /Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.genruntimeconfig.cache
 /Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/ref/Qustions.dll
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.sourcelink.json
