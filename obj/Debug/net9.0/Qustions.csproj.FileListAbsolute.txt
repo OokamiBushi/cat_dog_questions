@@ -1,0 +1,14 @@
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.AssemblyInfoInputs.cache
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.AssemblyInfo.cs
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.csproj.CoreCompileInputs.cache
+/Users/ookamibushi/Программирование/C#/C# 2/bin/Debug/net9.0/Qustions
+/Users/ookamibushi/Программирование/C#/C# 2/bin/Debug/net9.0/Qustions.deps.json
+/Users/ookamibushi/Программирование/C#/C# 2/bin/Debug/net9.0/Qustions.runtimeconfig.json
+/Users/ookamibushi/Программирование/C#/C# 2/bin/Debug/net9.0/Qustions.dll
+/Users/ookamibushi/Программирование/C#/C# 2/bin/Debug/net9.0/Qustions.pdb
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.dll
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/refint/Qustions.dll
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.pdb
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/Qustions.genruntimeconfig.cache
+/Users/ookamibushi/Программирование/C#/C# 2/obj/Debug/net9.0/ref/Qustions.dll
